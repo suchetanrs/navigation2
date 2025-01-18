@@ -22,7 +22,7 @@ namespace nav2_graceful_controller
 {
 /**
    * @brief Create a flat circle marker of radius slowdown_radius around the motion target for
-   * debugging / visualization porpuses.
+   * debugging / visualization purposes.
    *
    * @param motion_target Motion target
    * @param slowdown_radius Radius of the slowdown circle
